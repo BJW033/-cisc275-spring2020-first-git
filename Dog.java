@@ -1,6 +1,7 @@
+//Brandon Wu
 public class Dog extends Animal{
 	public Dog(String name, int legs){
-		super(legs, name);
+		super(name,legs);
 	}
 }
 
